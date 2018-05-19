@@ -1,4 +1,5 @@
-'''This is the main function, it calls the function formatted_city_country() to display a formatted information with what he/she typed.'''
+'''This is the main function, it calls the function formatted_city_country()
+to display a formatted information with what he/she typed.'''
 
 from city_function import formatted_city_country
 print('\n------------------------------------------------------')
